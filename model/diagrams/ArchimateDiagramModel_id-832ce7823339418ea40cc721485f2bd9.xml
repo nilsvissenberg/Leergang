@@ -59,4 +59,16 @@
         width="185"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8a88250714624b1a9f2956ac47718999">
+    <bounds
+        x="708"
+        y="439"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-51021ac4abda4284bca7fbc3aaf2a063.xml#id-51021ac4abda4284bca7fbc3aaf2a063"/>
+  </children>
 </archimate:ArchimateDiagramModel>
